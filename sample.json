@@ -1,0 +1,5 @@
+[
+  { "name": "Main office", "type": "Location" },
+  { "name": "John lost in space", "type": "Employee" },
+  { "name": "Seismic activity", "type": "Hazard" }
+]
